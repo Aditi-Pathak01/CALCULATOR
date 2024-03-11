@@ -1,3 +1,4 @@
+/*
 let specialBtn = document.querySelector("#special-btn");
 let display = document.querySelector(".input-box input");
 let minus = "-";
@@ -10,3 +11,4 @@ specialBtn.addEventListener("click", () => {
     display.value = display.value.toString().slice(1);
   }
 });
+*/
