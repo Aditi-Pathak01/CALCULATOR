@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: rgb(124, 120, 115);
+}
+.calculator {
+  height: 75vh;
+  width: 80vw;
+  padding: 10px;
+}
+.calc-btns {
+  text-align: center;
+}
+.calc-btns input {
+  height: 48px;
+  width: 48px;
+}
+input.equal {
+  width: 110px;
+}
+.calc-btns div input.operator,.calc-btns input {
+ font-size: 1.1rem;
+}
